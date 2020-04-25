@@ -1,0 +1,26 @@
+{h1:c}潘达利亚象棋-部落视角{/h1}
+{p:c}
+${v82::{icon:inv_garrison_alliancedestroyer:35}}${v83::{icon:inv_horse3saddle003_white:35}}${v84::{icon:ability_mount_ridingelekkelite:35}}${v85::{icon:achievement_worganhead:35}}${v86::{icon:expansionicon_classic:35}}${v87::{icon:achievement_worganhead:35}}${v88::{icon:ability_mount_ridingelekkelite:35}}${v89::{icon:inv_horse3saddle003_white:35}}${v90::{icon:inv_garrison_alliancedestroyer:35}}
+${v73::{icon:ui_allianceicon:35}}${v74::{icon:ui_allianceicon:35}}${v75::{icon:ui_allianceicon:35}}${v76::{icon:ui_allianceicon:35}}${v77::{icon:ui_allianceicon:35}}${v78::{icon:ui_allianceicon:35}}${v79::{icon:ui_allianceicon:35}}${v80::{icon:ui_allianceicon:35}}${v81::{icon:ui_allianceicon:35}}
+${v64::{icon:ui_allianceicon:35}}${v65::{icon:ability_mount_gyrocoptor:35}}${v66::{icon:ui_allianceicon:35}}${v67::{icon:ui_allianceicon:35}}${v68::{icon:ui_allianceicon:35}}${v69::{icon:ui_allianceicon:35}}${v70::{icon:ui_allianceicon:35}}${v71::{icon:ability_mount_gyrocoptor:35}}${v72::{icon:ui_allianceicon:35}}
+${v55::{icon:achievement_character_human_male:35}}${v56::{icon:ui_allianceicon:35}}${v57::{icon:achievement_character_human_male:35}}${v58::{icon:ui_allianceicon:35}}${v59::{icon:achievement_character_human_male:35}}${v60::{icon:ui_allianceicon:35}}${v61::{icon:achievement_character_human_male:35}}${v62::{icon:ui_allianceicon:35}}${v63::{icon:achievement_character_human_male:35}}
+${v46::{icon:ui_allianceicon:35}}${v47::{icon:ui_allianceicon:35}}${v48::{icon:ui_allianceicon:35}}${v49::{icon:ui_allianceicon:35}}${v50::{icon:ui_allianceicon:35}}${v51::{icon:ui_allianceicon:35}}${v52::{icon:ui_allianceicon:35}}${v53::{icon:ui_allianceicon:35}}${v54::{icon:ui_allianceicon:35}}
+————————————————————————
+联盟河 部落界
+————————————————————————
+${v37::{icon:ui_hordeicon:35}}${v38::{icon:ui_hordeicon:35}}${v39::{icon:ui_hordeicon:35}}${v40::{icon:ui_hordeicon:35}}${v41::{icon:ui_hordeicon:35}}${v42::{icon:ui_hordeicon:35}}${v43::{icon:ui_hordeicon:35}}${v44::{icon:ui_hordeicon:35}}${v45::{icon:ui_hordeicon:35}}
+${v28::{icon:achievement_character_orc_male:35}}${v29::{icon:ui_hordeicon:35}}${v30::{icon:achievement_character_orc_male:35}}${v31::{icon:ui_hordeicon:35}}${v32::{icon:achievement_character_orc_male:35}}${v33::{icon:ui_hordeicon:35}}${v34::{icon:achievement_character_orc_male:35}}${v35::{icon:ui_hordeicon:35}}${v36::{icon:achievement_character_orc_male:35}}
+${v19::{icon:ui_hordeicon:35}}${v20::{icon:ability_mount_rocketmount:35}}${v21::{icon:ui_hordeicon:35}}${v22::{icon:ui_hordeicon:35}}${v23::{icon:ui_hordeicon:35}}${v24::{icon:ui_hordeicon:35}}${v25::{icon:ui_hordeicon:35}}${v26::{icon:ability_mount_rocketmount:35}}${v27::{icon:ui_hordeicon:35}}
+${v10::{icon:ui_hordeicon:35}}${v11::{icon:ui_hordeicon:35}}${v12::{icon:ui_hordeicon:35}}${v13::{icon:ui_hordeicon:35}}${v14::{icon:ui_hordeicon:35}}${v15::{icon:ui_hordeicon:35}}${v16::{icon:ui_hordeicon:35}}${v17::{icon:ui_hordeicon:35}}${v18::{icon:ui_hordeicon:35}}
+${v1::{icon:inv_garrison_hordedestroyer:35}}${v2::{icon:ability_mount_whitedirewolf:35}}${v3::{icon:ability_mount_kodo_01:35}}${v4::{icon:achievement_character_undead_female:35}}${v5::{icon:achievement_leader_sylvanas:35}}${v6::{icon:achievement_character_undead_female:35}}${v7::{icon:ability_mount_kodo_01:35}}${v8::{icon:ability_mount_whitedirewolf:35}}${v9::{icon:inv_garrison_hordedestroyer:35}}
+{/p}
+{p:c}联盟方:${player_alliance_id::棋局未开始}
+部落方:${player_horde_id::棋局未开始}
+
+{link*wf_changeview*点击此处转换视角}
+
+{link*set_allianceplayer*点击此处设置目标为联盟方玩家}
+{link*set_hordeplayer*点击此处设置目标为部落方玩家}
+
+{link*get_quest*点击此处重置棋盘}
+{/p}
